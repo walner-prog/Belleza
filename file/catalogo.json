@@ -1,0 +1,13 @@
+{
+    "title": "ALTA CALIDAD, PRECIOS BAJOS",
+    "menu": [
+      { "meal": "Alisados", "price": "$32.00", "image": "img/alisados.jpg" },
+      { "meal": "Keratina", "price": "$22.00", "image": "img/keratina.jpg" },
+      { "meal": "Botox", "price": "$19.00", "image": "img/botox.jpg" },
+      { "meal": "Maquillaje", "price": "$90.00", "image": "img/maquillaje.jpg" },
+      { "meal": "Tintes y Decoloracion", "price": "$43.00", "image": "img/tintes.jpg" },
+      { "meal": "Pestañas punto a punto y pelo a pelo", "price": "$38.00", "image": "img/pestañas.jpg" }
+    ],
+    "fullPriceListLink": "#"
+  }
+  

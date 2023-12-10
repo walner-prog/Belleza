@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/  # No rastrear la carpeta de administración
+Disallow: /private/  # No rastrear la carpeta de archivos privados
