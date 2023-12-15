@@ -1136,6 +1136,10 @@ img {
   font-family: 'Times New Roman', Times, serif;
   font-size: 25px;
 }
+.terminos{
+  font-size: 18px;
+  
+}
 /* Agrega esto a tu archivo de estilos CSS */
 footer {
   background-color: #333;

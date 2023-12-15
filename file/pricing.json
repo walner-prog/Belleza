@@ -5,8 +5,9 @@
       { "meal": "•Keratina <br> ", "price": " " },
       { "meal": "•Botox <br>", "price": "" },
       { "meal": "•Maquillaje <br>", "price": " " },
-      { "meal": "•Tintes y Decoloracion ", "price": " " },
-      { "meal": "Alisados", "price": " " },
+      { "meal": "•Pigmentacion en cejas <br>", "price": " " },
+      { "meal": "•Tintes y Decoloracion <br> ", "price": " " },
+      { "meal": "Alisados <br>", "price": " " },
       { "meal": "•Pestañas punto a punto y pelo a pelo ", "price": " " }
     ],
     "fullPriceListLink": "catalogo.html"
